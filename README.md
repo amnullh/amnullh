@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Md Amanullah</h1>
-
-<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-amanullah-2038bb205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/md-amanullah-2038bb205?trk=profile-badge">Md Amanullah</a></div>
               
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -30,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnullh&show_icons=true&locale=en" alt="amnullh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnullh&" alt="amnullh" /></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
