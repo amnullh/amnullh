@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Frontend, DSA, C++**
+- 💬 Ask me about **Full Stack Development, DSA, C++**
 
 - 📫 How to reach me **amn3242@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-amanullah-2038bb205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-amanullah-2038bb205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amnullh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-amanullah-2038bb205" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amn3242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amn3242" height="30" width="40" /></a>
 </p>
 
