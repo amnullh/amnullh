@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amnullh" alt="amnullh" /></a> </p>
 
-- 🔭 I’m currently working on **IntelliCampus**
+- 🔭 I’m currently working on **CodeNex**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Full Stack Development, DSA, C++**
 
